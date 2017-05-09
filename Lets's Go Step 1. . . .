@@ -1,0 +1,21 @@
+STEP 1. - go to https://git-scm.com/download/win (automatically download)
+STEP 2. - create new repository and copy link on Clone and download git@github.com:tsokac2/your new repository .git
+STEP 3. - open Git CMD 
+STEP 4. - create folder on your machine
+STEP 5. - with  cd command navigate to the New Folder you just create
+STEP 6. - in the same folder write next line
+          C:\Users\Tomislav\Desktop\git clone --- link of your repository ---
+
+STEP 7. - check the status of your repository with  <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git status /--> 
+STEP 8. - add the new file to repository with <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git add index.html /-->
+STEP 9. - with command <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git commit -m "Type your message" /--> type a note
+          what dit you change on index.html file
+STEP 10.- push the new file to repository with <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git push /-->
+STEP 11.- check the content of repository with <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git status /--> 
+           
+           Message  - " new file: index.html "
+
+STEP 11.- with <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git pull /--> you can dwonload(pull) all files from repository
+STEP 13.- with <--/  C:\Users\Tomislav\Desktop\git_CMD_Commands> git  /--> you can check all the git commands
+STEP 14.- how to get out form error message in git the command is:
+          HIT ESC key on keyboard and type :wq HIT ENTER
